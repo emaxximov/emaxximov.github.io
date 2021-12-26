@@ -1,5 +1,4 @@
 ---
-is_activity: True
 caption: #what displays in the portfolio grid:
   title: Другое
   subtitle: 

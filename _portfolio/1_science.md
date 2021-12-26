@@ -1,5 +1,4 @@
 ---
-is_activity: True
 title: Научная деятельность
 subtitle: 
 image: assets/img/portfolio/ptz.jpg

@@ -90,11 +90,6 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Закрыть"
 
-  news:
-    title: "Новое"
-    section: news
-    closebutton: "Закрыть"
-
   team:
     title: "Образование"
     text: " "
