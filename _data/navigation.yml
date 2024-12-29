@@ -1,12 +1,18 @@
-# main links
+# main links links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Recipes"
+    url: /recipes-archive/
+  - title: "Portfolio"
+    url: /portfolio-archive/
+  - title: "Lorem Ipsum"
+    url: /lorem-ipsum/
+  - title: "Nigger Joke"
+    url: /jokes/
+  - title: "Poker Rules"
+    url: /poker-rules/
+  - title: "Events"
+    url: /events-archive/
+  - title: "Terms"
+    url: /terms/
